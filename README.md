@@ -2,7 +2,7 @@
 - 👀 I’m interested in exploring new technologies
 - 🌱 I’m currently learning javascript framwork
 - 💞️ I’m looking to collaborate on new technologies
-- 📫 How to reach me email me on kaushaljoshi727@gmail.com
+- 📫 How to reach me email me on kaushaljoshi75@gmail.com
 
 <!---
 kaushaljoshi09/kaushaljoshi09 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
