@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @kaushaljoshi09
 - 👀 I’m interested in exploring new technologies
-- 🌱 I’m currently learning javascript framwork
-- 💞️ I’m looking to collaborate on new technologies
 - 📫 How to reach me email me on kaushaljoshi75@gmail.com
 
 <!---
