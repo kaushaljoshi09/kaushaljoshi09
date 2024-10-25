@@ -34,7 +34,7 @@
 ### Frontend Technologies  
 <div align="center">  
 <img style="margin: 10px" src="https://github.com/kaushaljoshi09/kaushaljoshi09/blob/main/images/frontend/bootstrap-plain.svg" alt="Bootstrap" height="50" />  
-<img style="margin: 10px" src="https://github.com/kaushaljoshi09/kaushaljoshi09//blob/main/images/frontend/css.svg" alt="CSS3" height="50" />  
+<img style="margin: 10px" src="https://github.com/kaushaljoshi09/kaushaljoshi09/blob/main/images/frontend/css.svg" alt="CSS3" height="50" />  
 <img style="margin: 10px" src="https://github.com/kaushaljoshi09/kaushaljoshi09/blob/main/images/frontend/html.svg" alt="HTML5" height="50" />  
 <img style="margin: 10px" src="https://github.com/kaushaljoshi09/kaushaljoshi09/blob/main/images/frontend/javascript.svg" alt="JavaScript" height="50" />  
 <img style="margin: 10px" src="https://github.com/kaushaljoshi09/kaushaljoshi09/blob/main/images/frontend/react.svg" alt="React" height="50" /> 
