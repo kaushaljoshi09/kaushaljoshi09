@@ -31,7 +31,7 @@
 ## My Skill Set  
 <table><tr><td valign="top" width="33%">
 
-### Frontend Technologies  
+### Frontend  
 <div align="center">  
 <img style="margin: 10px" src="https://github.com/kaushaljoshi09/kaushaljoshi09/blob/main/images/frontend/bootstrap-plain.svg" alt="Bootstrap" height="50" />  
 <img style="margin: 10px" src="https://github.com/kaushaljoshi09/kaushaljoshi09/blob/main/images/frontend/css.svg" alt="CSS3" height="50" />  
@@ -40,7 +40,7 @@
 <img style="margin: 10px" src="https://github.com/kaushaljoshi09/kaushaljoshi09/blob/main/images/frontend/react.svg" alt="React" height="50" /> 
 </div></td><td valign="top" width="33%">
 
-### Backend and Server-Side Technologies  
+### Backend
 <div align="center">   
 <img style="margin: 10px" src="https://github.com/kaushaljoshi09/kaushaljoshi09/blob/main/images/backend/php.svg" alt="PHP" height="50" />  
 <img style="margin: 10px" src="https://github.com/kaushaljoshi09/kaushaljoshi09/blob/main/images/backend/Laravel.svg" alt="LARAVEL" height="50" />  
