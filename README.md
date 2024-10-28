@@ -112,9 +112,9 @@
 ### GitHub Insights
 <div align="center" >
 
-![](https://github-readme-stats.vercel.app/api?username=kaushaljoshi09&theme=gruvbox&hide_border=false&include_all_commits=true&count_private=true)<br/>
+<!-- ![](https://github-readme-stats.vercel.app/api?username=kaushaljoshi09&theme=gruvbox&hide_border=false&include_all_commits=true&count_private=true)<br/> -->
 
-![](https://github-readme-streak-stats.herokuapp.com/?user=kaushaljoshi09&theme=merko&hide_border=true)<br/>
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=kaushaljoshi09&theme=aura&border_radius=5&border=EB5454)](https://git.io/streak-stats)<br/>
 
 <a href="https://github-readme-activity-graph.vercel.app/graph?username=kaushaljoshi09&bg_color=0000000&color=0579C3&line=0579C3&point=417E87&area_color=006AFF&area=true&hide_border=true" target="_blank">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=kaushaljoshi09&bg_color=0000000&color=0579C3&line=0579C3&point=417E87&area_color=006AFF&area=true&hide_border=true" />
